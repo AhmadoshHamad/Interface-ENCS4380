@@ -1,3 +1,3 @@
 ## Task_2
 
-![alt text](image.png)
+![alt text](assets/circuit.png)
